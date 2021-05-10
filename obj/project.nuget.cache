@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q1ZucYg46rC4Ym1ijPzS4201lwsp62XYC6USaeYJ6yKlswxVmiwfN1JuqEwTss8KF/7yPpWDNNOFXQgGx95y+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lntinfotech\\Repos\\application-structure-checkpoint\\application-structure-checkpoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lntinfotech\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\Lntinfotech\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\Lntinfotech\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
